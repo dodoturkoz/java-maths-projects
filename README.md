@@ -1,4 +1,6 @@
 # java-maths-projects
+Both of these projects were made for the module MA117 - Programming for Scientists given at the University of Warwick.
+
 ## Fractal Generator
 
 asdfsd fsa df asdf
