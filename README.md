@@ -8,6 +8,6 @@ In this project, we use the secant method to approximate the roots of polynomial
 
 ## Matrix Statistics
 
-Ever wondered about the statistical properties of matrices? In this project, we explore the variance of random nxn matrices and tridiagonal matrices.
+In this project, we explore the variance of random nxn matrices and tridiagonal matrices using abstract classes.
 
 
