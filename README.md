@@ -8,11 +8,6 @@ Here is an example fractal which was produced by running this program.
 
 ## Matrix Statistics
 
-
-asdfasdfs
-
-
-
-asdf
+Ever wondered about the statistical properties of matrices? In this project, I explored the variance of random nxn matrices and tridiagonal matrices.
 
 
